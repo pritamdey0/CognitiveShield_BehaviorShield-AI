@@ -18,7 +18,7 @@ Fintech / AI-ML / Cyber Sercurity
 ---
 
 ## 👥 Team Members
-| Name | Student ID |
+| Name | University Roll No. |
 | :--- | :--- |
 | **Ritesh Yadav** | 1230439247 |
 | **Pritam Dey** | 1230439223 |
